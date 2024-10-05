@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQp0Co6Jv6s4g2xbjfWaSPnUTNQN+vxXJhucS4dFix+HxXAyPXQ22Qzji/KU6ZoqNIsGbgl7wp+62BU4aJSFTw==",
+  "success": true,
+  "projectFilePath": "/home/koesan/ders1/ders1/ders1.csproj",
+  "expectedPackageFiles": [
+    "/home/koesan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
